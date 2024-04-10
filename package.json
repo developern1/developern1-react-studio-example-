@@ -1,7 +1,7 @@
 {
   "name": "react-studio-example",
   "description": "Multiple track web audio editor and player with waveform preview and annotation.",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "author": "developern1",
   "website": "https://developern1.github.io/react-studio-js-example",
   "private": true,
